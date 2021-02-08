@@ -3,8 +3,9 @@
 ## Este es un proyecto de ejemplo utilizando principios básicos de desarrollo móvil con expo y elementos de react-native
 
 ## consume una api de TheMovieDB (https://developers.themoviedb.org/3)
-## Configuracion: React Navigation 5 (https://reactnavigation.org/docs/getting-started/)
-##
+## Configuracion: 
+ - Router: React Navigation 5 (https://reactnavigation.org/docs/getting-started/)
+ - Style: react-native-paper && react-native-snap-carousel
 
 Snaps:
 
@@ -16,19 +17,23 @@ Snaps:
 
 ![Genres](./assets/genres.jpeg)
 
-3. Light theme:
+3. Trailer Screen!:
+
+![Genres](./assets/trailer.jpeg)
+
+4. Light theme:
 
 ![LightTheme](./assets/lightTheme.jpeg)
 
-4. Popular:
+5. Popular:
 
 ![PopularScreen](./assets/popular.jpeg)
 
-5. Busqueda:
+6. Busqueda:
 
 ![SearchBar](./assets/search.jpeg)
 
-6. Side bar:
+7. Side bar:
 
 ![Sidebar](./assets/Draw.jpeg)
 
